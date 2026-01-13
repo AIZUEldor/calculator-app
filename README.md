@@ -21,3 +21,13 @@ git clone https://github.com/username/CalculatorApp.git
 Loyihani Visual Studio yoki dotnet CLI orqali oching
 
 Dasturni ishga tushiring:
+
+ Dastur ishlash jarayoni
+
+![Calculator Demo](assets/demo2.gif)
+
+Muallif
+
+Eldor
+
+Agar loyiha sizga foydali bo‘lsa ⭐ yulduzcha bosishni unutmang 😊
