@@ -18,6 +18,15 @@ namespace CalculatorApp
 
             char currentSign = '+'; // Dastlabki amal +
 
+            for (int i = 0; i < summ.Length - 1; i++)
+            {
+                if (char.IsDigit(summ[i]) && char.IsDigit(summ[i + 1]))
+                {
+                    Console.WriteLine(" Xato kiritdingiz !!!!! \n Iltimos, bir xonalik sonlardan iborat qo'shish va ayirish misolini yozing !!!");
+                    return;
+                }
+            }
+
             foreach (char c in summ)
             {
                 if (c == ' ')
