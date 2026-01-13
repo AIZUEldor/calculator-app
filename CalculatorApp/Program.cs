@@ -36,22 +36,7 @@ namespace CalculatorApp
        
     }
 }
-//    INPUT:     2+5-1
-//OUTPUT:  6
 
-//Shartlar:
-//1. Faqat + va - amallari bajariladi
-//2. Faqat 1 xonalik sonlar kiritiladi
-//3. Foydalanuvchi doimo to'g'ri qiymatlarni kiritishi ta'minlanadi
-
-//Kuchililar uchun:
-//1. orada probel tashlab ketilgan holatlarni ham inobatga olish kerak, Ya'ni:
-//INPUT:     2 + 5 - 1
-//OUTPUT:  6
-//2. Foydaluvchi xato qiymatlarni ham kiritib qoyishi mumkin.
-
-//INPUT:  a&+51 -01
-//OUTPUT: Iltimos, bir xonalik sonlardan iborat qo'shish va ayirish misolini yozing
 
     
 
