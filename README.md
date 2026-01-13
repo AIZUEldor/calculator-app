@@ -23,7 +23,10 @@ Loyihani Visual Studio yoki dotnet CLI orqali oching
 Dasturni ishga tushiring:
 
  Dastur ishlash jarayoni
-demo2.gif
+## 🎬 Demo
+
+![Calculator Demo](https://raw.githubusercontent.com/AIZUEldor/calculator-app/master/demo2.gif)
+
 
 Muallif
 
