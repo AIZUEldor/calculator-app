@@ -23,8 +23,7 @@ Loyihani Visual Studio yoki dotnet CLI orqali oching
 Dasturni ishga tushiring:
 
  Dastur ishlash jarayoni
-
-![Calculator Demo](assets/demo2.gif)
+demo2.gif
 
 Muallif
 
