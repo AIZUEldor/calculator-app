@@ -13,7 +13,7 @@ namespace CalculatorApp
             if (answer.ToLower() == "ha")
             { 
               bool continueCalculation = true;
-                while (continueCalculation)
+                while (continueCalculation) // yangi hisoblash uchun tsikl
                 {
                     calculator.HisoblashLogig();
                     Console.WriteLine("Yana hisoblamoqchimisiz? (Ha/Yo'q)");
